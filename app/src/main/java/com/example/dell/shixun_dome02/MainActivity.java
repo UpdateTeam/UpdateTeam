@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
     public void getbut(View view) {
         Toast.makeText(MainActivity.this,"你真帅",Toast.LENGTH_LONG).show();
         Log.d("123","asd");
+        //1
     }
 }
